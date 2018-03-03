@@ -1,0 +1,11 @@
+body {
+  padding-top:70px;
+}
+.navbar .navbar-inverse .navbar-fixed-top{
+  color:white;
+
+}
+.jumbotron {
+  color: #2c3e50;
+  background: #ecf0f1;
+}
